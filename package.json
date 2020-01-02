@@ -1,0 +1,28 @@
+{
+  "name": "ticket-booking",
+  "version": "1.0.0",
+  "url": "https://github.com/vishakha070/ticket-booking",
+  "license": "GPL-2.0+",
+  "description": "This plugin provides shortcode for add ticket fields in contact form 7.",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "grunt": "~1.0.1",
+    "grunt-check-dependencies": "~1.0.0",
+    "grunt-checktextdomain": "^1.0.1",
+    "grunt-jsvalidate": "~0.2.2",
+    "grunt-stylelint": "0.13.0",
+    "grunt-wp-i18n": "1.0.3",
+    "stylelint": "12.0.0",
+    "stylelint-config-wordpress": "16.0.0"
+  },
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishakha070/ticket-booking"
+  },
+  "dependencies": {
+    "load-grunt-tasks": "^3.5.2"
+  }
+}

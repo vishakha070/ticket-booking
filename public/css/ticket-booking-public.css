@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.ticket_booking_cf7_wrapper {
+	max-width: 500px;
+}
+
+.cf7_ticket_wrapper {
+    display: inline-block;
+    border: 1px solid #d0d0d0;
+    padding: 2px 5px;
+    margin: 2px;
+}
+
+.cf7_ticket_wrapper span {
+	padding-left: 5px;
+}	
